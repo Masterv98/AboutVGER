@@ -42,4 +42,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
 
 [resume]: https://github.com/Masterv98/AboutVGER/blob/main/Curriculum%20Vitae%20Early%202022(PTG)-%20Vitor%20Gabriel.pdf
-[AMblog]: link
+[AMblog]: https://masterv98.github.io/AboutVGER/CurriculumVitaeEarly2022(PTG)-VitorGabriel.pdf
