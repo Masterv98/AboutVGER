@@ -4,7 +4,7 @@
 ### Aqui é onde eu mantenho minha vida atualizada, você pode encontrar meu [_Currículo_][resume]
 
 ### I am also posting here my old blog posts that has been taken down and this is my backup about [_Additive Manufacturing_][AMblog]
-### Também estou postando aqui meus antigos artigos de blog que estão fora do ar, e este é o meu backup sobre [_Additive Manufacturing_][AMblog]
+### Também estou postando aqui meus antigos artigos de blog que estão fora do ar, e este é o meu backup sobre [_Manufatura Aditiva_][AMblog]
 
 ### If you are interested on some of 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
@@ -41,5 +41,5 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
 
-[resume]: link
+[resume]: https://github.com/Masterv98/AboutVGER/blob/main/Curriculum%20Vitae%20Early%202022(PTG)-%20Vitor%20Gabriel.pdf
 [AMblog]: link
