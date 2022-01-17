@@ -23,7 +23,7 @@ geralmete as mais utilizadas, criando uma peça em metal para então termos uma
 acabamento e precisão exepcional proporcionada pela manufatura subtrativa. 
  
 <div align="center">
-![Hybrid ( Additive and Subtractive manufacturing) machine by DMG Mori](https://i.makeagif.com/media/9-28-2015/gCx5y7.gif)
+![Hybrid  by DMG Mori][image1]
 <div align="justify"> 
  
 Enquanto as máquinas mais comuns usam na sequência (criando uma peça “crua” com 
@@ -343,8 +343,8 @@ impressoras para este ramo, e podemos esperar cada vez mais avanços nesse setor
 [Source1](https://www.3ders.org/articles/20190422-campden-bri-launches-research-project-to-evaluate-how-3d-printing-could-benefit-food-industry.html)
 [Source2](https://www.campdenbri.co.uk/research/3d-printing.php)
 
-[image1]: https://i.makeagif.com/media/9-28-2015/gCx5y7.gif
-[image2]: https://www.creality3dofficial.com/files/goods/1_37456c97-f7d5-44a1-ade3-839674ebe523.jpg
+[image1]: assets/A&N2Asset/hybridDMG.gif
+[image2]: assets/A&N2Asset/1_37456c97-f7d5-44a1-ade3-839674ebe523.jpg
 [image3]: link
 [image4]: link
 [image5]: link
