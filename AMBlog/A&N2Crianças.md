@@ -23,7 +23,7 @@ geralmete as mais utilizadas, criando uma peça em metal para então termos uma
 acabamento e precisão exepcional proporcionada pela manufatura subtrativa. 
  
 <div align="center">
-![DMG MORI Híbrido][image1]
+![Hybrid ( Additive and Subtractive manufacturing) machine by DMG Mori](https://i.makeagif.com/media/9-28-2015/gCx5y7.gif)
 <div align="justify"> 
  
 Enquanto as máquinas mais comuns usam na sequência (criando uma peça “crua” com 
