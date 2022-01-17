@@ -343,8 +343,8 @@ impressoras para este ramo, e podemos esperar cada vez mais avanços nesse setor
 [Source1](https://www.3ders.org/articles/20190422-campden-bri-launches-research-project-to-evaluate-how-3d-printing-could-benefit-food-industry.html)
 [Source2](https://www.campdenbri.co.uk/research/3d-printing.php)
 
-[image1]: link
-[image2]: link
+[image1]: https://i.makeagif.com/media/9-28-2015/gCx5y7.gif
+[image2]: https://www.creality3dofficial.com/files/goods/1_37456c97-f7d5-44a1-ade3-839674ebe523.jpg
 [image3]: link
 [image4]: link
 [image5]: link
