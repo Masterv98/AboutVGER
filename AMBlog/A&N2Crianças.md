@@ -1,4 +1,4 @@
-# Fabricação Digital Híbrida
+## Fabricação Digital Híbrida
 <div align="justify">
 Uma das primeiras perguntas que ouço quando iniciamos uma conversa sobre 
 fabricação digital híbrida é: O que é manufatura Híbrida em si?
@@ -10,7 +10,7 @@ termo é muito usado quando os processos em suma são extremamente diferentes,
 como conformação e usinagem ou corte a plasma (criando chapas de metal e as 
 cortando), Mas o termo Manufatura Híbrida começou a ser utilizado muito mais 
 quando foi desenvolvidos diversas técnicas de impressão 3D de metal, e usamos o 
-termo quando um mesmo sistema realiza estas tarefas.
+termo quando um mesmo sistema realiza estas tarefas.  
 
 A fabricação digital híbrida é a modernização da manufatura híbrida. Diversos 
 fabricantes recentemente estão integrando dois conceitos em apenas uma máquina 
@@ -24,12 +24,12 @@ acabamento e precisão exepcional proporcionada pela manufatura subtrativa.
  
 <div align="center">
 ![Hybrid  by DMG Mori](/assets/A&N2Asset/hybridDMG.gif)
-<div align="justify"> 
+<div align="justify">   
  
 Enquanto as máquinas mais comuns usam na sequência (criando uma peça “crua” com 
 a manufatura aditiva e adicionando a precisão e acabamento da subtrativa) alguns
 sistemas ainda nos permitem a ir um nível mais longe, trocando os modos durante 
-o processo total e permitindo criarmos peças ainda mais complexas.
+o processo total e permitindo criarmos peças ainda mais complexas.  
 
 Como comentamos, a maioria dos sistemas de manufatura híbrida trabalh com metal,
  contudo existem outros sistemas trabalhando plásticos. Essa decisão de focar em
@@ -37,7 +37,7 @@ Como comentamos, a maioria dos sistemas de manufatura híbrida trabalh com metal
 inovando, e trazendo geometrias mais complexas, porém mantendo uma alta precisão
  e nível de qualidade esperado pela continuidade de melhorias gerado nos 
 sistemas de manufatura tradicionais (como a de usinagem), é para encher essa 
-vala que a manufatura Híbrida vem.
+vala que a manufatura Híbrida vem.  
 
 Técnicas de manufatura híbrida em plásticos, além de permitir o mesmo fluxo de 
 trabalho, nos permite criar peças com o efeito que chamamos de Overmolding 
@@ -47,7 +47,7 @@ trabalho, nos permite criar peças com o efeito que chamamos de Overmolding
 impressas e usiná-las ou até mesmo integrar peças impressas em uma usinagem. 
 Usando uma chapa de ABS, usinando-a e adicionando plástico derretido criando 
 geometrias extremamente complexas de alta resistência, é uma forma diferente que
- a fabricação digital híbrida de plásticos permite.
+ a fabricação digital híbrida de plásticos permite.  
 
 Voltando para o segmento de metal, que é o mais amplo atualmente e com maior 
 demanda, podemos comparar peças de metal feitas com manufatura híbrida 
@@ -56,7 +56,7 @@ analisarmos uma mesma peça feita pelos dois modos é o gasto de material
 extremamente menor em muitos casos (dependendo do tamanho do tarugo utilizado) e
  até mesmo diminuindo o tempo, principalmente na manufatura de peças de grande 
 formato e complexidade (como rotores, turbinas etc) economizando material e 
-permitindo uma alta precisão e qualidade.
+permitindo uma alta precisão e qualidade.  
 
 O segmento de fabricação digital híbrida apesar de ser novo está em constante 
 inovação, trazendo novos métodos, como múltiplos materiais, trabalho com 
@@ -67,18 +67,18 @@ empresas não só a trazerem cada vez melhores produtos, mas também pode até m
  proteger os projetos, já que além destes arquivos estarem em um domínio 
 digital, a complexidade de reprodução das peças e de se poder analisar 
 completamente permite uma maior segurança e uma maior dificuldade em realizar 
-engenharia reversa.
+engenharia reversa.  
 
 Esta tecnologia nos traz muitas possibilidades, infelizmente é realmente voltado
  para indústria com altos custos (como aeronáutica, setores de óleo e gás, etc),
  já que os sistemas completos de manufatura híbrida são um um dos tipos mais 
 caros que temos de impressoras 3D. Com o desenvolvimento da tecnologia pode-se 
 abaixar e tornar mais acessível para pequenas e médias indústrias, setores de 
-pesquisa e desenvolvimento, etc.
+pesquisa e desenvolvimento, etc.    
 
-[Source](https://www.additivemanufacturing.media/blog/post/am-101-hybrid-manufacturing)
+[Source](https://www.additivemanufacturing.media/blog/post/am-101-hybrid-manufacturing)  
 
-# Segmento de Impressão 3D para crianças
+## Segmento de Impressão 3D para crianças  
 
 Desde o início do projeto RepRap, até hoje onde temos centenas, se não milhares 
 de impressoras feitas com o intuito de serem baratas, facéis de mexer e serem 
