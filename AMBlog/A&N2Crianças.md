@@ -24,11 +24,12 @@ Deposition Welding) ou até mesmo WAAM (Wire Arc Additive Manufacturing) são
 geralmete as mais utilizadas, criando uma peça em metal para então termos uma 
 acabamento e precisão exepcional proporcionada pela manufatura subtrativa. 
 
- 
+```
 <div align="center">
 ![Hybrid  by DMG Mori](./assets/A&N2Asset/hybridDMG.gif)
 <div align="justify">   
- '''
+```
+ 
 Enquanto as máquinas mais comuns usam na sequência (criando uma peça “crua” com 
 a manufatura aditiva e adicionando a precisão e acabamento da subtrativa) alguns
 sistemas ainda nos permitem a ir um nível mais longe, trocando os modos durante 
