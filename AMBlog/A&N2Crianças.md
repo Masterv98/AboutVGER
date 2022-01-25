@@ -1,5 +1,5 @@
 ## Fabricação Digital Híbrida
-<div align="justify">
+
 Uma das primeiras perguntas que ouço quando iniciamos uma conversa sobre 
 fabricação digital híbrida é: O que é manufatura Híbrida em si?
  
