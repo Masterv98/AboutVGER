@@ -25,7 +25,7 @@ geralmete as mais utilizadas, criando uma peça em metal para então termos uma
 acabamento e precisão exepcional proporcionada pela manufatura subtrativa. 
 
 
-![Hybrid  by DMG Mori](./assets/A&N2Asset/hybridDMG.gif)
+![Hybrid  by DMG Mori](/assets/A&N2Asset/hybridDMG.gif)
 
 
  
