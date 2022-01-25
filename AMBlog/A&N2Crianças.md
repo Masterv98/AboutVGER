@@ -24,11 +24,10 @@ Deposition Welding) ou até mesmo WAAM (Wire Arc Additive Manufacturing) são
 geralmete as mais utilizadas, criando uma peça em metal para então termos uma 
 acabamento e precisão exepcional proporcionada pela manufatura subtrativa. 
 
-```
-<div align="center">
+
 ![Hybrid  by DMG Mori](./assets/A&N2Asset/hybridDMG.gif)
-<div align="justify">   
-```
+
+
  
 Enquanto as máquinas mais comuns usam na sequência (criando uma peça “crua” com 
 a manufatura aditiva e adicionando a precisão e acabamento da subtrativa) alguns
@@ -101,11 +100,11 @@ segmento de Impressoras 3D de baixo custo está um pouco distorcida. Então vamo
  iniciar uma discussão nessa área, pois é algo que deve ser discutido e até 
 mesmo visto por essas empresas.
 
-<div align="center">
+
 ![CR-100][image2]
 
 ![Mattel ThingMaker][image3]
-<div align="justify">  
+
 
 Quais são as impressoras atuais para as crianças? Existem vários modelos de 
 impressoras voltado para crianças, e é fácil de se perceber pois essas 
@@ -165,9 +164,9 @@ extremamente simples permitindo até mesmo um monitoramento de uso pelos
 responsáveis. Porém continuo a criticar o produto físico por possuir uma câmara
  aberta, podendo causar algum problema devido a impaciência de muitas crianças.
 
-<div align="center">
+
 ![toybox][image4]
-<div align="justify"> 
+
 
 Vamos então analisar por outro ponto de vista. Uma impressora 3d na casa não é 
 somente de uma criança mas muito provavelmente muitas pessoas a volta dela 
@@ -282,9 +281,9 @@ do sol e etc em direções diferentes. Esta estrutura se tornou o objetivo de
 replicação na linha “Chro-Morpho” (claramente inspirado no fenero de borboletas 
 Morpho).
 
-<div align="center"> 
+
 ![BlueButterfly][image5]
-<div align="justify"> 
+
 
 Antes de entendermos como as roupas impressas conseguem simular estas 
 fantásticas cores irisdecentes precisamos entender como as borboletas conseguem 
@@ -299,9 +298,9 @@ o ângulo.Eles dispersam luz seletivamente, de forma semelhante a uma grade de
 difração. O efeito é parecido com o que acontece quando a luz cai sobre os 
 minúsculos sulcos dos CDs e que dão aquele efeito de arco-íris.
 
-<div align="center"> 
+
 ![Stratasysbubbles][image6]
-<div align="justify"> 
+
 
 Voltando para as peças de roupas, como conseguimos replicar este efeito de 
 nanoestruturas com impressoras 3d? Como citado anteriormente, estas 
