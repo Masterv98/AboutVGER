@@ -14,7 +14,8 @@ quando foi desenvolvidos diversas técnicas de impressão 3D de metal, e usamos 
 termo quando um mesmo sistema realiza estas tarefas.  
 
 <div style="text-align: center">Ragatanga</div>
- {: style="text-align: center" }
+
+{: style="text-align: center" }
 Ruge!
 
 A fabricação digital híbrida é a modernização da manufatura híbrida. Diversos 
