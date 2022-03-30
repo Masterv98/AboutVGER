@@ -28,7 +28,7 @@ acabamento e precisão exepcional proporcionada pela manufatura subtrativa.
 
 
 <div align='center'> 
-![Hybrid  by DMG Mori](../assets/A&N2Asset/hybridDMG.gif)
+<img src="../assets/A&amp;N2Asset/hybridDMG.gif" alt="Hybrid  by DMG Mori">
 </div>
 
  
