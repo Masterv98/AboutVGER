@@ -4,6 +4,7 @@
 Uma das primeiras perguntas que ouço quando iniciamos uma conversa sobre 
 fabricação digital híbrida é: O que é manufatura Híbrida em si?
 </p>
+
 <p align=”justify”> 
 Se analisarrmos o termo direto de um dicionário temos a definição de algo feito 
 composto por elementos diferentes. Portanto um produto de manufatura híbrida é 
