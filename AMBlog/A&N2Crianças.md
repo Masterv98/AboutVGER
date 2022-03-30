@@ -25,7 +25,7 @@ geralmete as mais utilizadas, criando uma peça em metal para então termos uma
 acabamento e precisão exepcional proporcionada pela manufatura subtrativa. 
 
 
-![Hybrid  by DMG Mori](/assets/A&N2Asset/hybridDMG.gif)
+![Hybrid  by DMG Mori](assets/A&N2Asset/hybridDMG.gif)
 
 
  
@@ -101,7 +101,7 @@ segmento de Impressoras 3D de baixo custo está um pouco distorcida. Então vamo
 mesmo visto por essas empresas.
 
 
-![CR-100](/assets/A&N2Asset/1_37456c97-f7d5-44a1-ade3-839674ebe523.jpg)
+![CR-100](assets/A&N2Asset/1_37456c97-f7d5-44a1-ade3-839674ebe523.jpg)
 
 ![Mattel ThingMaker][image3]
 
