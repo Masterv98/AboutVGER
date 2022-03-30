@@ -27,9 +27,9 @@ geralmete as mais utilizadas, criando uma peça em metal para então termos uma
 acabamento e precisão exepcional proporcionada pela manufatura subtrativa. 
 
 
-
+<div align='center'> 
 ![Hybrid  by DMG Mori](../assets/A&N2Asset/hybridDMG.gif)
-
+</div>
 
  
 Enquanto as máquinas mais comuns usam na sequência (criando uma peça “crua” com 
