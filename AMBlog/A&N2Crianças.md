@@ -13,10 +13,7 @@ cortando), Mas o termo Manufatura Híbrida começou a ser utilizado muito mais
 quando foi desenvolvidos diversas técnicas de impressão 3D de metal, e usamos o 
 termo quando um mesmo sistema realiza estas tarefas.  
 
-<div style="text-align: center">Ragatanga</div>
-
-{: style="text-align: center" }
-Ruge!
+<h1 align="center"> Title </h1>
 
 A fabricação digital híbrida é a modernização da manufatura híbrida. Diversos 
 fabricantes recentemente estão integrando dois conceitos em apenas uma máquina 
