@@ -1,9 +1,10 @@
-## Fabricação Digital Híbrida
+<h2 align="center"> Fabricação Digital Híbrida </h2>
 
+<p align=”justify”>
 Uma das primeiras perguntas que ouço quando iniciamos uma conversa sobre 
 fabricação digital híbrida é: O que é manufatura Híbrida em si?
- 
- 
+</p>
+<p align=”justify”> 
 Se analisarrmos o termo direto de um dicionário temos a definição de algo feito 
 composto por elementos diferentes. Portanto um produto de manufatura híbrida é 
 aquela que utilizamos de diferentes técnicas para criar um objeto. Contudo esse 
@@ -12,8 +13,7 @@ como conformação e usinagem ou corte a plasma (criando chapas de metal e as
 cortando), Mas o termo Manufatura Híbrida começou a ser utilizado muito mais 
 quando foi desenvolvidos diversas técnicas de impressão 3D de metal, e usamos o 
 termo quando um mesmo sistema realiza estas tarefas.  
-
-<h1 align="center"> Title </h1>
+</p>
 
 A fabricação digital híbrida é a modernização da manufatura híbrida. Diversos 
 fabricantes recentemente estão integrando dois conceitos em apenas uma máquina 
@@ -24,6 +24,7 @@ cabeçote de impressão do tipo DED (Direct Energy Deposition), LDW (Laser
 Deposition Welding) ou até mesmo WAAM (Wire Arc Additive Manufacturing) são 
 geralmete as mais utilizadas, criando uma peça em metal para então termos uma 
 acabamento e precisão exepcional proporcionada pela manufatura subtrativa. 
+
 
 
 ![Hybrid  by DMG Mori](../assets/A&N2Asset/hybridDMG.gif)
