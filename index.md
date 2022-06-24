@@ -6,6 +6,6 @@
 ### I am also posting here my old blog posts that has been taken down and this is my backup about [_Additive Manufacturing_][AMblog]
 ### Também estou postando aqui meus antigos artigos de blog que estão fora do ar, e este é o meu backup sobre [_Manufatura Aditiva_][AMblog]
 
-[resumeENG]: https://masterv98.github.io/AboutVGER/Curriculum Vitae Late 2021(ENG)- Vitor Gabriel.pdf
-[resumePT]: https://masterv98.github.io/AboutVGER/Curriculum Vitae Early 2022(PTG)- Vitor Gabriel.pdf
+[resumeENG]: https://masterv98.github.io/AboutVGER/Curriculum Vitae Late 2022 (ENG)- Vitor Gabriel.pdf
+[resumePT]: https://masterv98.github.io/AboutVGER/Curriculum Vitae Late 2022 (PTG)- Vitor Gabriel.pdf
 [AMblog]: https://masterv98.github.io/AboutVGER/AMBlog/main
